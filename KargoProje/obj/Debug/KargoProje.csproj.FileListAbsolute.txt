@@ -1,0 +1,31 @@
+c:\users\ahmet\documents\visual studio 2015\Projects\KargoProje\KargoProje\bin\Debug\KargoProje.exe.config
+c:\users\ahmet\documents\visual studio 2015\Projects\KargoProje\KargoProje\bin\Debug\KargoProje.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\KargoProje\KargoProje\bin\Debug\KargoProje.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\KargoProje\KargoProje\obj\Debug\KargoProje.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2015\Projects\KargoProje\KargoProje\obj\Debug\KargoProje.Form1.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\KargoProje\KargoProje\obj\Debug\KargoProje.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\KargoProje\KargoProje\obj\Debug\KargoProje.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2015\Projects\KargoProje\KargoProje\obj\Debug\KargoProje.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\KargoProje\KargoProje\obj\Debug\KargoProje.pdb
+C:\Users\Section2\Desktop\KargoProje\KargoProje\bin\Debug\KargoProje.exe.config
+C:\Users\Section2\Desktop\KargoProje\KargoProje\bin\Debug\KargoProje.exe
+C:\Users\Section2\Desktop\KargoProje\KargoProje\bin\Debug\KargoProje.pdb
+C:\Users\Section2\Desktop\KargoProje\KargoProje\obj\Debug\KargoProje.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\KargoProje\KargoProje\obj\Debug\KargoProje.Form1.resources
+C:\Users\Section2\Desktop\KargoProje\KargoProje\obj\Debug\KargoProje.Properties.Resources.resources
+C:\Users\Section2\Desktop\KargoProje\KargoProje\obj\Debug\KargoProje.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\KargoProje\KargoProje\obj\Debug\KargoProje.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\KargoProje\KargoProje\obj\Debug\KargoProje.exe
+C:\Users\Section2\Desktop\KargoProje\KargoProje\obj\Debug\KargoProje.pdb
+C:\Users\AHMET\Desktop\KargoProje\KargoProje\bin\Debug\KargoProje.exe.config
+C:\Users\AHMET\Desktop\KargoProje\KargoProje\obj\Debug\KargoProje.exe
+C:\Users\AHMET\Desktop\KargoProje\KargoProje\obj\Debug\KargoProje.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\KargoProje\KargoProje\bin\Debug\KargoProje.exe.config
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\KargoProje\KargoProje\obj\Debug\KargoProje.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\KargoProje\KargoProje\obj\Debug\KargoProje.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\KargoProje\KargoProje\bin\Debug\KargoProje.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\KargoProje\KargoProje\bin\Debug\KargoProje.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\KargoProje\KargoProje\obj\Debug\KargoProje.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\KargoProje\KargoProje\obj\Debug\KargoProje.Form1.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\KargoProje\KargoProje\obj\Debug\KargoProje.Properties.Resources.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\ADO.NET\PROJELER\KargoProje\KargoProje\obj\Debug\KargoProje.csproj.GenerateResource.Cache
